@@ -1,16 +1,1 @@
-# Basic Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
-"# CT_ERC20_Contract" 
+This project deploys Circle Token on Skale network, inspired from (https://vitto.cc/how-to-create-and-deploy-an-erc20-token-in-20-minutes/)
